@@ -1,0 +1,9 @@
+Provided Dataset: (Sales Data),,,,,,,,
+,,,,,,,,
+Order ID,Order Date,Region,Customer ID,Product,Category,Sales,Quantity,Profit
+1,01-01-2024,East,C001,Product A,Electronics,500,2,100
+2,02-01-2024,West,C002,Product B,Furniture,300,1,50
+3,03-01-2024,East,C003,Product C,Electronics,200,3,30
+4,04-01-2024,North,C001,Product D,Office Supplies,100,5,20
+5,05-01-2024,South,,Product E,Furniture,400,2,90
+6,06-01-2024,East,C002,Product F,Electronics,600,1,120
